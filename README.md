@@ -1,5 +1,5 @@
 # Demo
-A series simple demo.
+A series of simple demos.
 
 ## 1. Sort Animation
 
